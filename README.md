@@ -14,4 +14,3 @@ Simply type the following command in you terminal:
 ```
 gradle jettyRun
 ```
-
